@@ -12,7 +12,7 @@ Data Analysis:
 **Responsibilites:**
 ------------------------------
   -  Inspecting Data
-  -  Clearning Data
+  -  Cleaning Data
   -  Transforming Data
   -  Modeling Data
   -  Using Data to inform Desicion Making
