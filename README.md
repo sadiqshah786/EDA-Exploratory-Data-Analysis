@@ -5,9 +5,11 @@ Data Analysis Using Python
 Data Analysis:
 ----------------------------
    "A person  Whose job is to examine info in order to find something out or to help with making desicions"
-                             **Finding Insights from Structure and Un structure Data**
+   
+   - **Finding Insights from Structure and Un structure Data**
+                            
 
-**Responsibilites : **
+**Responsibilites:**
 ------------------------------
   -  Inspecting Data
   -  Clearning Data
@@ -17,7 +19,7 @@ Data Analysis:
   
   
   
-  **Role : **
+  **Role:**
   ----------------
   - Analysis
   - Research
